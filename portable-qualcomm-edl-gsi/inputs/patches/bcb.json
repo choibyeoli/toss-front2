@@ -1,0 +1,11 @@
+{
+  "enabled": false,
+  "description": "Set the exact misc/BCB location only after verifying it in the target GPT and bootloader implementation.",
+  "lun": 0,
+  "sector": 0,
+  "sectors": 1,
+  "block_size": 4096,
+  "command_offset": 0,
+  "command_length": 32,
+  "command": "boot-fastboot"
+}

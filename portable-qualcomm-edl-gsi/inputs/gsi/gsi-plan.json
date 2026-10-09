@@ -1,0 +1,8 @@
+{
+  "description": "Fill this only after calculating the target dynamic-partition group capacity.",
+  "delete_logical_partitions": [],
+  "flash_partition": "system",
+  "system_image": "system.img",
+  "wipe_before_flash": false,
+  "wipe_after_flash": false
+}

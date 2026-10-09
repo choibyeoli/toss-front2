@@ -1,0 +1,15 @@
+{
+  "enabled": false,
+  "description": "Enable only after identifying the device-specific debug settings block.",
+  "lun": 0,
+  "sector": 0,
+  "sectors": 1,
+  "block_size": 4096,
+  "writes": [
+    {
+      "offset": 0,
+      "length": 64,
+      "text": "REPLACE_WITH_DEVICE_SPECIFIC_DEBUG_VALUE"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "block_size": 4096,
+  "target_hint": "Replace with an expected EDL USB product substring or leave empty.",
+  "entries": [
+    {
+      "label": "example_init_patch",
+      "lun": 0,
+      "sector": 0,
+      "sectors": 1,
+      "original": "example_init_original.bin",
+      "modified": "example_init_modified.bin",
+      "original_sha256": "REPLACE_WITH_64_HEX_CHARACTERS",
+      "modified_sha256": "REPLACE_WITH_64_HEX_CHARACTERS"
+    }
+  ]
+}
